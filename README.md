@@ -23,7 +23,7 @@ Signal
     ↓
 Order
     ↓
-Risk Decision
+Hard Risk
     ↓
 Execution Simulator
     ↓
@@ -31,6 +31,9 @@ Fill
     ↓
 Position Ledger
     ↓
-PnL
+Portfolio State
     ↓
-Event-Driven Backtest
+PnL / Exposure / Margin / Drawdown
+    ↓
+Event-Driven Backtest Result
+```
